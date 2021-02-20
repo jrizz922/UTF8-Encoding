@@ -1,6 +1,5 @@
 import os
 
-
 def write_lines(lines, file_path, mode='w'):
     """
     :param lines:
